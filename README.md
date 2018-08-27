@@ -1,6 +1,7 @@
-# rfbserver
+# RFBServer
 
-Server implementation of RFB in Python.
+Server implementation of RFB in Python. 
+This implementation does not contain yet compression. 
 
 # Requirements
 
